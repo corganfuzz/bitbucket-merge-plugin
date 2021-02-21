@@ -6,8 +6,7 @@
         <param name="plugin-icon">images/pluginIcon.png</param>
         <param name="plugin-logo">images/pluginLogo.png</param>
     </plugin-info>
-
     <!-- add our i18n resource -->
     <resource type="i18n" name="i18n" location="is-admin-merge-check"/>
-    
+    <repository-merge-check key="isAdmin" class="bean:isAdminMergeCheck" configurable="false"/>
 </atlassian-plugin>
