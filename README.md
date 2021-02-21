@@ -1,4 +1,4 @@
-## Bitbucket Plugin for latest version of Attlasian SDK 2021
+## Bitbucket Plugin for latest version of Attlasian SDK 2021 with IntelliJ
 
 ```bash
 ❯ atlas-version
