@@ -1,16 +1,14 @@
 ## Bitbucket Plugin for latest version of Attlasian SDK 2021
 
 ```bash
-    ❯ atlas-version
+❯ atlas-version
     
-    ATLAS Version:    8.2.6
-    ATLAS Home:       /usr/local/Cellar/atlassian-plugin-sdk/8.2.6/libexec
-    ATLAS Scripts:    /usr/local/Cellar/atlassian-plugin-sdk/8.2.6/libexec/bin
-    ATLAS Maven Home: /usr/local/Cellar/atlassian-plugin-sdk/8.2.6/libexec/apache-maven-3.5.4
-    AMPS Version:     8.1.0
-    --------
+ATLAS Version:    8.2.6
+ATLAS Home:       /usr/local/Cellar/atlassian-plugin-sdk/8.2.6/libexec
+ATLAS Scripts:    /usr/local/Cellar/atlassian-plugin-sdk/8.2.6/libexec/bin
+ATLAS Maven Home: /usr/local/Cellar/atlassian-plugin-sdk/8.2.6/libexec/apache-maven-3.5.4
+AMPS Version:     8.1.0
 ```
-
 
 Here are the SDK commands you'll use immediately:
 
