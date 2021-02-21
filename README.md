@@ -1,14 +1,4 @@
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
-
-
-```
+```shell
     ❯ atlas-version
     
     ATLAS Version:    8.2.6
